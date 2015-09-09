@@ -1,0 +1,63 @@
+8
+
+dir
+693
+http://rikitokulx.intranet.justsystem.co.jp/svn/repos/OWL-QN/src/com/justsystems/eureka/mlclassifier/mldata/factory
+http://rikitokulx.intranet.justsystem.co.jp/svn/repos
+
+
+
+2008-07-31T01:50:18.401315Z
+693
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+61ef8cbe-4b3e-4df8-842d-40e3305ff188
+
+Loader.java
+file
+
+
+
+
+2008-07-31T01:37:47.000000Z
+7c67d66a1f94d30608958b9cf995092a
+2008-07-31T01:50:18.401315Z
+693
+
+MLDataFactory.java
+file
+
+
+
+
+2008-07-31T01:38:37.000000Z
+1d51357a1e962e6303c2bc782b596d03
+2008-07-31T01:50:18.401315Z
+693
+
+has-props
+
+SvmdataFormatLoader.java
+file
+
+
+
+
+2008-07-31T01:38:59.000000Z
+31475fc83b0f694ec3e4cb6cdeb535e0
+2008-07-31T01:50:18.401315Z
+693
+
